@@ -1,45 +1,47 @@
-<p align="center">
-  <a href="https://github.com/Menna-Omar24">
-    <img width="80%" alt="Hello, I'm Menna Omar. I build amazing mobile apps!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<!-- Banner or ASCII Art (اختياري لو تحبي تضيفيه) -->
+<!-- ```
+ __  __                  _       _             
+|  \/  | ___ _ __   __ _| | __ _| |_ ___  _ __ 
+| |\/| |/ _ \ '_ \ / _` | |/ _` | __/ _ \| '__|
+| |  | |  __/ | | | (_| | | (_| | || (_) | |   
+|_|  |_|\___|_| |_|\__, |_|\__,_|\__\___/|_|   
+                   |___/                       
+``` -->
+
+<img width="957" alt="menna-omar" src="./assets/menna-omar-banner.png">
+
+<p align="center"><i>(Designed by me)</i></p>
+
+<br /> <br />
+
+#### Latest Flutter & Mobile Development Posts
+
+<!--START_SECTION:feed-->
+* [Building a To-Do App with Flutter & Firebase](https://github.com/Menna-Omar24/to_do)
+* [5 Common Mistakes in Flutter UI & How to Avoid Them](#)
+* [How to Integrate Google Services in Flutter Apps](#)
+* [Best Practices for State Management in Flutter](#)
+* [Improving User Experience in Mobile Apps](#)
+<!--END_SECTION:feed-->
 
 <br />
 
-I'm a passionate **Flutter Developer** from Egypt 🇪🇬
-
-**About me**
-
-- 💼 Mobile App Developer specializing in **Flutter**
-- 📱 Built multiple cross-platform apps with clean architecture and responsive UI
-- 🎯 Skilled in Dart, Flutter, Firebase, REST APIs, and State Management
-- 💡 Love creating intuitive designs and enhancing **user experience**
-- 💬 Ask me about Flutter, UI/UX for mobile, or clean code practices [here](https://github.com/Menna-Omar24/Menna-Omar24/issues)
+#### My Favourite Tech & Tools
 
 <code><img height="20" alt="dart" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
 <code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
-<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png"></code>
-
-| <a href="https://github.com/Menna-Omar24"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Menna-Omar24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Menna's GitHub stats" /></a> | <a href="https://github.com/Menna-Omar24"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Omar24&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/Menna-Omar24/to_do">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna-Omar24&repo=to_do&theme=buefy" />
-</a>
-<a href="https://github.com/Menna-Omar24/flutter_projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna-Omar24&repo=flutter_projects&theme=buefy" />
-</a>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 
 <br />
-<br />
 
-<a href="https://www.linkedin.com/in/menna-omar24">
-  <img align="right" alt="Menna Omar | LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="mailto:mennaomar.dev@gmail.com">
-  <img align="right" alt="Menna Omar | Email" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+#### My weekly development breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+Dart         10 hrs 15 mins  ██████████████████████░░░   85.00 %
+Flutter      1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Firebase     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %

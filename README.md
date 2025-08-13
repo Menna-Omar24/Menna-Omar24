@@ -28,15 +28,3 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Python", "C++" },
-    "Database" : { "Firebase", "SQLite" },
-    "Editors" : { "VSCode", "Android Studio" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
-  };
-}
